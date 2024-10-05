@@ -1,8 +1,6 @@
-# online
-# ACCESS_ID = # your_access_id
-# ACCESS_KEY = # your_access_key
-# USERNAME = # your_username
-# PASSWORD = # your_password
-# ASSET_ID = # your_asset_id
-# DEVICE_ID = # your_device_id
-# ENDPOINT = "https://openapi.tuyacn.com"
+ACCESS_ID = "qsc97g4mnp4fn3kxhecc"
+ACCESS_KEY = "46335aa2059d4b308253c98cb0a239f6"
+USERNAME = "leonardo.schmitt@intelbras.com.br"
+PASSWORD = "Leoskeye18900742!"
+DEVICE_ID = "eb328d10cf1eeda884stdq"
+ENDPOINT = "https://openapi.tuyacn.com"
